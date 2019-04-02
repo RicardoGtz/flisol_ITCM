@@ -2765,8 +2765,9 @@ input, select, textarea {
 			border-right: 0;
 		}
 
+/*ana*/
 			table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(255, 255, 255, 0.025);
+				background-color: /*rgba(46, 49, 65, 0.77)*/#db7713;/*rgba(148, 89, 10, 0.87);rgba(182, 107, 32, 0.87)*/
 			}
 
 		table td {
@@ -3643,6 +3644,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #ed8720;
+
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
@@ -4145,4 +4147,3 @@ input, select, textarea {
 		}
 
 	}
-	
